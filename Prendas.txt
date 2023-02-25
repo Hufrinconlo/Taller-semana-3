@@ -1,0 +1,13 @@
+cabeza, casual, azul, beanie
+cabeza, elegante, negro, top hat
+cabeza, casual, blanco, gorra coleta
+torso, semiformal, rojo, chaqueta roja
+torso, formal, gris, saco gris
+torso, casual, negro, camiseta negra
+piernas, casual, azul, blue jean
+piernas, casual, negro, jean negro
+piernas, casual, blanco, bermuda blanca
+piernas, formal, negro, pantalon de lino
+zapatos, pies, verde, chanclas verdes
+zapatos, pies, negro, tennis negros
+zapatos, pies, rojo, jordans
